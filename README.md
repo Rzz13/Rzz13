@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Currently Working at Luckunetwork.net as Developer</h4>
+Currently Working at Luckynetwork.net as Developer
 
 ###
 
@@ -25,10 +25,6 @@
 </div>
 
 ###
-
-<br clear="both">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rzz13/rzz13/output/pacman-contribution-graph-dark.svg">
