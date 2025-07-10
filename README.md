@@ -17,4 +17,4 @@ Developer at [Luckynetwork.net](https://luckynetwork.net)
 
 ###
 
-<img src="https://raw.githubusercontent.com/rzz13/rzz13/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/rzz13/rzz13/output/snake.svg" alt="Snake animation" /> -->
