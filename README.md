@@ -2,7 +2,7 @@
 
 ###
 
-Developer at [Luckynetwork.net](https://luckynetwork.net)
+<!--Developer at [Luckynetwork.net](https://luckynetwork.net) -->
 
 ###
 
